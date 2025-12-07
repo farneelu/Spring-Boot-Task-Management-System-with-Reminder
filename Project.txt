@@ -1,0 +1,14 @@
+Spring Web MVC
+Jakarta servlet API-if tomcat server is 9 use the javax servlet API
+Hibernate Core
+MySQL Connector java/PostgreSQL
+
+To make page dynamic use this dependencies
+Spring_ORM
+Expression/JSTI
+  -JStl
+  -GlassFish
+
+
+
+
